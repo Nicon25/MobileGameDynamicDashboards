@@ -3,13 +3,17 @@
 The file features three comprehensive interactive dynamic dashboards presenting the financial statistics of a mobile game in Excel.
 
 
+
 1) Income Breakdown dashboard
 
 The dashboard represents an overview of total income, a detailed percentage breakdown of income generated, EBITDA, and the sources of funds, categorized as player funds or third-party funds.
 
+
+
 2) Worldwide Sales Distribution dashboard
 
 The dashboard represents an overview of the leading countries by sales volume and the percentage of sales achieved.
+
 
 
 3) Sales Breakdown dashboard
