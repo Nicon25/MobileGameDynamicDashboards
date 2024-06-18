@@ -1,6 +1,7 @@
 ### Content overview
 
-The file features three comprehensive interactive dynamic dashboards presenting the financial statistics of a mobile game in Excel.
+The file features three comprehensive interactive dynamic dashboards presenting the financial statistics of a mobile game in Excel. 
+
 --------------------------------------
 1) Income Breakdown dashboard
 
